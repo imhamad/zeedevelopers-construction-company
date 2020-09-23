@@ -28,7 +28,8 @@
         "drupal/gin": "^3.0@alpha",
         "drupal/gin_login": "^1.0@RC",
         "drupal/gin_toolbar": "^1.0@beta",
-        "drupal/pathauto": "^1.8"
+        "drupal/pathauto": "^1.8",
+        "drupal/tawkto": "^1.1"
     },
     "conflict": {
         "drupal/drupal": "*"
